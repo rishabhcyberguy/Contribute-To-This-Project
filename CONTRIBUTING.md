@@ -97,6 +97,7 @@ This signals your intent so no one else starts the same work in parallel. **You 
 PRs are reviewed by maintainers as time allows. If changes are requested, the bot will mark the PR and leave a comment. If a PR receives no activity for 30 days it may be closed by the stale bot — you can always reopen it.
 
 ### What is out of scope
+# do not know how to contribute
 
 - Changes to the core card template structure (`cards/template.html`)
 - Changes that affect the auto-merge or archive pipeline without prior maintainer discussion
